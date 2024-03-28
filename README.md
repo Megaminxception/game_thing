@@ -1,3 +1,3 @@
 # game_thing
 
-A new Flutter project.
+Trial and (mostly) error as I attempt to make a game using Flame.
